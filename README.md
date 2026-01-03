@@ -26,5 +26,9 @@ This project helps users record, view, and search daily expenses with persistent
 
 ---
 
-## 📂 Project Structure
+## Future Enhancements
+- 📊 Monthly expense analytics
+- 🗑️ Edit/Delete expense entries
+- 📁 Export reports (PDF/Excel)
+- 🧾 Category-wise spending charts
 
